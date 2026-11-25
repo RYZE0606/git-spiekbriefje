@@ -18,3 +18,6 @@ Bij een revert draai je een commit terug door er een nieuwe commit bovenop te ze
 
 ## 6. Branches en pull requests
 Een branch is een aparte tak van je project waarin je rustig aan iets nieuws of een aanpassing werkt zonder de rest stuk te maken. De main-branch blijft altijd de werkende versie zodat je zeker weet dat de basis stabiel is en niet breekt door half afgewerkte code. Een pull request is een verzoek op GitHub om jouw wijzigingen uit een branch samen te voegen met main, zodat je ze eerst nog even kunt nakijken of laten checken voor ze erbij komen.
+
+## 7. Mijn conflict
+Bij het samenvoegen botsten de wijzigingen in het bestand op dezelfde plek tussen mijn branch en de doelbranch. Ik heb na het klikken op resolve merge gekozen voor het stuk tekst dat gemeenschappelijk was en de conflictmarkeringen weggehaald.
