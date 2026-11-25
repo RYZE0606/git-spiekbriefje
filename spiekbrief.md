@@ -12,3 +12,6 @@ Een .gitignore-bestand zorgt ervoor dat Git bepaalde bestanden en mappen negeert
 ## 4. Pull
 
 Met een pull heb ik de nieuwe aanpassingen van GitHub naar mijn eigen pc binnengehaald, zodat het bestand hier ook weer bijgewerkt is. Aan het begin van elke les pull je eerst zodat je altijd verder werkt in de nieuwste versie en geen conflicten of fouten krijgt met wat eerder is aangepast.
+
+## 5. Terugdraaien
+Bij een revert draai je een commit terug door er een nieuwe commit bovenop te zetten die de fout ongedaan maakt, waardoor de foute commit zelf gewoon in de geschiedenis blijft staan en je precies ziet wat er is gebeurd.
