@@ -5,3 +5,6 @@ Met clone haal je een project van GitHub voor het eerst als een kopie naar jouw 
 
 ## 2. Commit bericht
 Een goed commitbericht is bijvoorbeeld "Knop om in te loggen toegevoegd" en een slecht bericht is gewoon "aanpassing". Dat eerste bericht is veel beter omdat je achteraf meteen ziet wat er precies veranderd is, terwijl je bij een vaag woord heel je code opnieuw moet gaan bekijken om te snappen wat je hebt gedaan.
+
+## 3. Gitignore
+Een .gitignore-bestand zorgt ervoor dat Git bepaalde bestanden en mappen negeert, zodat rommel zoals .DS_Store, *.zip en *.log niet zomaar op GitHub terechtkomt.
