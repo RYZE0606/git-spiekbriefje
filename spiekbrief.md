@@ -8,3 +8,7 @@ Een goed commitbericht is bijvoorbeeld "Knop om in te loggen toegevoegd" en een 
 
 ## 3. Gitignore
 Een .gitignore-bestand zorgt ervoor dat Git bepaalde bestanden en mappen negeert, zodat rommel zoals .DS_Store, *.zip en *.log niet zomaar op GitHub terechtkomt.
+
+## 4. Pull
+
+Met een pull heb ik de nieuwe aanpassingen van GitHub naar mijn eigen pc binnengehaald, zodat het bestand hier ook weer bijgewerkt is. Aan het begin van elke les pull je eerst zodat je altijd verder werkt in de nieuwste versie en geen conflicten of fouten krijgt met wat eerder is aangepast.
