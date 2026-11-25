@@ -15,3 +15,6 @@ Met een pull heb ik de nieuwe aanpassingen van GitHub naar mijn eigen pc binneng
 
 ## 5. Terugdraaien
 Bij een revert draai je een commit terug door er een nieuwe commit bovenop te zetten die de fout ongedaan maakt, waardoor de foute commit zelf gewoon in de geschiedenis blijft staan en je precies ziet wat er is gebeurd.
+
+## 6. Branches en pull requests
+Een branch is een aparte tak van je project waarin je rustig aan iets nieuws of een aanpassing werkt zonder de rest stuk te maken. De main-branch blijft altijd de werkende versie zodat je zeker weet dat de basis stabiel is en niet breekt door half afgewerkte code. Een pull request is een verzoek op GitHub om jouw wijzigingen uit een branch samen te voegen met main, zodat je ze eerst nog even kunt nakijken of laten checken voor ze erbij komen.
